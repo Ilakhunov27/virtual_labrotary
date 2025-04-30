@@ -1,0 +1,38 @@
+{
+    "Вода": {
+        "density": 1000,
+        "color": "#4FC3F7"
+    },
+    "Ртуть": {
+        "density": 13546,
+        "color": "#B0BEC5"
+    },
+    "Мёд": {
+        "density": 1420,
+        "color": "#FFB300"
+    },
+    "Молоко": {
+        "density": 1030,
+        "color": "#FAFAFA"
+    },
+    "Масло подсолнечное": {
+        "density": 920,
+        "color": "#FFC107"
+    },
+    "Спирт": {
+        "density": 789,
+        "color": "#81D4FA"
+    },
+    "Ацетон": {
+        "density": 784,
+        "color": "#E1F5FE"
+    },
+    "Бензин": {
+        "density": 710,
+        "color": "#FFF176"
+    },
+    "Масло машинное": {
+        "density": 890,
+        "color": "#616161"
+    }
+}
